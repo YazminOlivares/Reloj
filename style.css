@@ -1,0 +1,11 @@
+.Reloj{
+    padding: 15;
+    display: flex;
+}
+
+.Labels{
+    color: blueviolet;
+    width: 50;
+    height: 50;
+    margin: 10;
+}
